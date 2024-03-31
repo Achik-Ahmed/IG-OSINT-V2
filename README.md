@@ -10,6 +10,9 @@ apt update && apt upgrade -y
 pkg install git -y
 ```
 ```
+termux-setup-storage
+```
+```
 git clone https://github.com/Achik-Ahmed/IG-OSINT-V2
 ```
 ```
