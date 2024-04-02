@@ -8,7 +8,7 @@ A simple Instgram Osint tool to gather instgram user informations.
 apt update && apt upgrade -y
 ```
 ```
-pkg install git -y
+pkg install git python -y
 ```
 ```
 termux-setup-storage
@@ -24,3 +24,6 @@ pip install instaloader
 ```
 ```
 python ig.py
+```
+### One line command:
+visit : <a href="https://www.termuxcommands.com/instagram-information-gathering-tool/">https://www.termuxcommands.com/instagram-information-gathering-tool/</a>
